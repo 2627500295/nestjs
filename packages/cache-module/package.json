@@ -1,0 +1,14 @@
+{
+  "name": "@microld/passport-cookie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/2627500295/passport-cookie",
+  "author": "microld <2627500295@qq.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@nestjs/common": "^7.5.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
